@@ -1,9 +1,6 @@
 // document.getElementById("count").innerText = 5
 
-let bonusPoints = 50;
-bonusPoints = bonusPoints + 50;
-console.log(bonusPoints);
-bonusPoints = bonusPoints - 75;
-console.log(bonusPoints);
-bonusPoints = bonusPoints + 45;
-console.log(bonusPoints);
+// initialize the count as 0
+// listen fro clicks on the increment button
+//increment the count variable
+//change the count element in html to refelct now count
