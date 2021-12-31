@@ -10,6 +10,6 @@ function save() {
   count_Element.textContent = 0;
   let previousSaves = counter + " - ";
   let saveEl = document.getElementById("save-el");
-  saveEl.textContent += " " + previousSaves;
+  saveEl.textContent += previousSaves;
   counter = 0;
 }
